@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CAMPSLOPY
+- 👋 Hi, I’m Shobowale Tola Joshua
 - 👀 I’m interested in FrontEnd Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Open Source Projects
