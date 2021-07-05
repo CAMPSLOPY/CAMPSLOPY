@@ -20,7 +20,7 @@
 
 - ![1_KBGdMaU_emZX4XR1AvkD4A](https://user-images.githubusercontent.com/54154401/124411228-0c5f0300-dd44-11eb-82ea-997b705dcf13.gif)
 
-- I Also currently enrol in the Google IT Support Professional Certificate
+- I Also currently enrol in the Google IT Support Professional Certificate on Coursera
 - ![Google-IT-Professional-Certificate-Logo](https://user-images.githubusercontent.com/54154401/124412115-b2f7d380-dd45-11eb-9466-258ea994e79d.png)
 
 #PROJECTS
