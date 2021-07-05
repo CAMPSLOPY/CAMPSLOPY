@@ -8,7 +8,7 @@
 - Javascript
 - React
 - ![1_KBGdMaU_emZX4XR1AvkD4A](https://user-images.githubusercontent.com/54154401/124411228-0c5f0300-dd44-11eb-82ea-997b705dcf13.gif)
-
+- Here is a link to my Portfolio (https://my-portfolio-blue.vercel.app/#home)
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me shobowaletola@gmail.com 
 
