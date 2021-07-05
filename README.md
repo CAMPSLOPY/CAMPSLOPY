@@ -6,6 +6,11 @@
 - These are the Technological tools i work with currently 
 
 - ![download](https://user-images.githubusercontent.com/54154401/124411725-03226600-dd45-11eb-8780-6633bb86eed8.png)
+- 
+- ![css-illustration](https://user-images.githubusercontent.com/54154401/124412739-18988f80-dd47-11eb-8d37-c2aa7d678270.png)
+
+-![1_mtsk3fQ_BRemFidhkel3dA](https://user-images.githubusercontent.com/54154401/124412765-2817d880-dd47-11eb-835f-1de83b577ec3.png)
+
 
 - ![javascript](https://user-images.githubusercontent.com/54154401/124411742-0a497400-dd45-11eb-954c-9237f71599f2.png)
 
