@@ -22,10 +22,10 @@ These are the Technological tools i work with currently
  ***************************** Current Project *******************************************
 
  Here is a link to my Portfolio (https://my-portfolio-blue.vercel.app/#home)
- I built WORD GUESS GAME with HTML, CSS & VANILLA JAVASCRIPT.
- A landing Page called LOOP STUDIO which i re-created from frontendmentor.io
- I built a prototype Landing page of a subscription App with Dark Mode.
- Currently working on more high-end projects that i am going to add to my portfolio
+ - I built WORD GUESS GAME with HTML, CSS & VANILLA JAVASCRIPT.
+ - A landing Page called LOOP STUDIO which i re-created from frontendmentor.io
+ - I built a prototype Landing page of a subscription App with Dark Mode.
+ 
  
  
 
