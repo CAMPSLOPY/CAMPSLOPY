@@ -13,8 +13,6 @@ These are the Technological tools i work with currently
 
  ![javascript](https://user-images.githubusercontent.com/54154401/124411742-0a497400-dd45-11eb-954c-9237f71599f2.png)
 
-🌱 I’m currently learning
-
  React
 
  ![1_KBGdMaU_emZX4XR1AvkD4A](https://user-images.githubusercontent.com/54154401/124411228-0c5f0300-dd44-11eb-82ea-997b705dcf13.gif)
@@ -25,6 +23,7 @@ These are the Technological tools i work with currently
  - I built WORD GUESS GAME with HTML, CSS & VANILLA JAVASCRIPT.
  - A landing Page called LOOP STUDIO which i re-created from frontendmentor.io
  - I built a prototype Landing page of a subscription App with Dark Mode.
+ - Currently building more projects to add to my portfolio
  
  
  
