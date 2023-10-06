@@ -26,12 +26,6 @@ These are the Technological tools i work with currently
  - Currently building more projects to add to my portfolio
  
  
- 
-
- *************  IT CERTIFICATION IN VIEW *******************************
-
- I  currently enrol in the Google IT Support Professional Certificate on Coursera
- ![Google-IT-Professional-Certificate-Logo](https://user-images.githubusercontent.com/54154401/124412115-b2f7d380-dd45-11eb-9466-258ea994e79d.png)
 
 
 
