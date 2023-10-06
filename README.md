@@ -1,4 +1,4 @@
- 👋 Hi, I’m Shobowale Tola Joshua,  A front-End software engineer/ IT Support Engineer.
+ 👋 Hi, I’m Shobowale Tola Joshua,  A Software Engineer.
  ![my image](https://user-images.githubusercontent.com/54154401/124410806-1fbd9e80-dd43-11eb-84c3-9073aeeb6610.jpeg)
 
 
