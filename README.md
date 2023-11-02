@@ -1,10 +1,10 @@
- 👋 Hi, I’m Shobowale Tola Joshua,  A Software Engineer.
+ 👋 Hi, I’m Shobowale Tola Joshua,  A Data Engineer.
  ![my image](https://user-images.githubusercontent.com/54154401/124410806-1fbd9e80-dd43-11eb-84c3-9073aeeb6610.jpeg)
 
 
-These are the Technological tools i work with currently 
+These are the tools i work with currently 
 
-![download](https://user-images.githubusercontent.com/54154401/124411725-03226600-dd45-11eb-8780-6633bb86eed8.png)
+[![download](https://user-images.githubusercontent.com/54154401/124411725-03226600-dd45-11eb-8780-6633bb86eed8.png)](https://raspberry-valley.azurewebsites.net/img/Python-01.jpg)
  
  ![css-illustration](https://user-images.githubusercontent.com/54154401/124412739-18988f80-dd47-11eb-8d37-c2aa7d678270.png)
 
@@ -29,7 +29,7 @@ These are the Technological tools i work with currently
 
 
 
-💞️ I’m looking to collaborate on Open Source Projects and also looking for an internship role as a Front-End Developer
+💞️ I’m looking to collaborate on Open Source Projects and also looking for a role as a Data Engineer
 
  📫 How to reach me shobowaletola@gmail.com 
 
