@@ -1,5 +1,6 @@
  👋 Hi, I’m Shobowale Tola Joshua,  A Data Engineer.
- ![my image](https://user-images.githubusercontent.com/54154401/124410806-1fbd9e80-dd43-11eb-84c3-9073aeeb6610.jpeg)
+![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/c900e52b-0fdf-4a54-bf1d-679682867757)
+
 
 
 These are the tools i work with currently 
