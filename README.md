@@ -3,6 +3,8 @@
 
 
 These are the tools i work with currently 
+![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/07743d58-4453-4f52-a812-b5fc003c3bf3)
+
 
 [https://raspberry-valley.azurewebsites.net/img/Python-01.jpg](https://www.wedigtech.com/img/python-logo.png)
  
