@@ -6,7 +6,8 @@ These are the tools i work with currently
 
 PYTHON 
 
-![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/38bf4ace-3f7c-4b69-a10d-0499c1b60f11)
+![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/e9c6dab5-af22-4e3b-abfe-3555fd52b820)
+
 
 
  ***************************** Current Project *******************************************
