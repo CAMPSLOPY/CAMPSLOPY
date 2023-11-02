@@ -3,21 +3,11 @@
 
 
 These are the tools i work with currently 
-![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/07743d58-4453-4f52-a812-b5fc003c3bf3)
 
+PYTHON 
 
-[https://raspberry-valley.azurewebsites.net/img/Python-01.jpg](https://www.wedigtech.com/img/python-logo.png)
- 
- ![css-illustration](https://user-images.githubusercontent.com/54154401/124412739-18988f80-dd47-11eb-8d37-c2aa7d678270.png)
+![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/38bf4ace-3f7c-4b69-a10d-0499c1b60f11)
 
-![1_mtsk3fQ_BRemFidhkel3dA](https://user-images.githubusercontent.com/54154401/124412765-2817d880-dd47-11eb-835f-1de83b577ec3.png)
-
-
- ![javascript](https://user-images.githubusercontent.com/54154401/124411742-0a497400-dd45-11eb-954c-9237f71599f2.png)
-
- React
-
- ![1_KBGdMaU_emZX4XR1AvkD4A](https://user-images.githubusercontent.com/54154401/124411228-0c5f0300-dd44-11eb-82ea-997b705dcf13.gif)
 
  ***************************** Current Project *******************************************
 
