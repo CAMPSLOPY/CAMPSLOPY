@@ -4,7 +4,7 @@
 
 These are the tools i work with currently 
 
-[![download](https://user-images.githubusercontent.com/54154401/124411725-03226600-dd45-11eb-8780-6633bb86eed8.png)](https://raspberry-valley.azurewebsites.net/img/Python-01.jpg)
+https://raspberry-valley.azurewebsites.net/img/Python-01.jpg
  
  ![css-illustration](https://user-images.githubusercontent.com/54154401/124412739-18988f80-dd47-11eb-8d37-c2aa7d678270.png)
 
