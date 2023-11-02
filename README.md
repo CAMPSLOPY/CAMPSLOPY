@@ -8,7 +8,17 @@ PYTHON
 
 ![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/e9c6dab5-af22-4e3b-abfe-3555fd52b820)
 
+SQL 
 
+![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/7b83c2e9-51ba-45c4-b36f-e18144cd0375)
+
+DATA WAREHOUSE
+
+![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/59b656b2-3d3c-4741-a5e2-9ed1f2c48863)
+
+PySpark
+
+![image](https://github.com/CAMPSLOPY/CAMPSLOPY/assets/54154401/b98f627e-7918-4ce7-bb06-410fa21335c7)
 
  ***************************** Current Project *******************************************
 
